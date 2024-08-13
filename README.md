@@ -8,14 +8,14 @@ Simple project to play with batch and worker processing. Explore the difference 
 
 The goal is to explore the following:
 
-- Difference between two approaches 
-- Application execution time difference 
-- Code optimization 
+- Difference between two approachesÂ 
+- Application execution time differenceÂ 
+- Code optimizationÂ 
 
 
 ## Sample Classes
 
-Sample class ComplexCalculationSimulator contains operations to simulate batch and worker processing. 
+Sample class ComplexCalculationSimulator contains operations to simulate batch and worker processing.
 **Note:** Sleep timer will simulate time-consuming operations.
 
 ComplexCalculationSimulator class short description:
@@ -52,7 +52,7 @@ Complexity (time) distribution increases case by case.
 Console output: 
 
 >   ==================================================
->  100 tasks was generated between 1 and 1 seconds diapason
+>  100 tasks were generated between 1 and 1 seconds diapason
 >  Batch processing execution Time: 10142 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 9449 ms.
@@ -60,7 +60,7 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 2 seconds diapason
+>  100 tasks were generated between 1 and 2 seconds diapason
 >  Batch processing execution Time: 10128 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 9484 ms.
@@ -68,7 +68,7 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 3 seconds diapason
+>  100 tasks were generated between 1 and 3 seconds diapason
 >  Batch processing execution Time: 20132 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 15403 ms.
@@ -76,7 +76,8 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 4 seconds diapason
+> 
+>  100 tasks were generated between 1 and 4 seconds diapason
 >  Batch processing execution Time: 30166 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 18288 ms.
@@ -84,7 +85,8 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 5 seconds diapason
+> 
+>  100 tasks were generated between 1 and 5 seconds diapason
 >  Batch processing execution Time: 40182 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 24338 ms.
@@ -92,7 +94,8 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 6 seconds diapason
+> 
+>  100 tasks were generated between 1 and 6 seconds diapason
 >  Batch processing execution Time: 49118 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 29318 ms.
@@ -100,7 +103,8 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 7 seconds diapason
+> 
+>  100 tasks were generated between 1 and 7 seconds diapason
 >  Batch processing execution Time: 58119 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 33454 ms.
@@ -108,7 +112,8 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 8 seconds diapason
+> 
+>  100 tasks were generated between 1 and 8 seconds diapason
 >  Batch processing execution Time: 70078 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 41332 ms.
@@ -116,7 +121,7 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 9 seconds diapason
+>  100 tasks were generated between 1 and 9 seconds diapason
 >  Batch processing execution Time: 77117 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 38402 ms.
@@ -124,7 +129,7 @@ Console output:
 >  
 >  
 >   ==================================================
->  100 tasks was generated between 1 and 10 seconds diapason
+>  100 tasks were generated between 1 and 10 seconds diapason
 >  Batch processing execution Time: 1098599 ms.
 >  Batch size: 10
 >  Individual worker processing execution Time: 49301 ms.
@@ -135,4 +140,5 @@ Console output:
 ## Conclusion
 
 When complexity dispersions between different tasks increase or there are a large number of tasks use individual workers for more efficiency.
+
 **Note:** In some cases using individual workers may increase code complexity.
