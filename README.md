@@ -51,90 +51,90 @@ Complexity (time) distribution increases case by case.
 
 Console output: 
 
->   ==================================================
->  100 tasks were generated between 1 and 1 seconds diapason
->  Batch processing execution Time: 10142 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 9449 ms.
->  Worker count: 10
->  
->  
->   ==================================================
->  100 tasks were generated between 1 and 2 seconds diapason
->  Batch processing execution Time: 10128 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 9484 ms.
->  Worker count: 10
->  
->  
->   ==================================================
->  100 tasks were generated between 1 and 3 seconds diapason
->  Batch processing execution Time: 20132 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 15403 ms.
->  Worker count: 10
->  
->  
->   ==================================================
+==================================================
+100 tasks were generated between 1 and 1 seconds diapason
+Batch processing execution Time: 10142 ms.
+Batch size: 10
+Individual worker processing execution Time: 9449 ms.
+Worker count: 10
+
+
+==================================================
+100 tasks were generated between 1 and 2 seconds diapason
+Batch processing execution Time: 10128 ms.
+Batch size: 10
+Individual worker processing execution Time: 9484 ms.
+Worker count: 10
+
+
+==================================================
+100 tasks were generated between 1 and 3 seconds diapason
+Batch processing execution Time: 20132 ms.
+Batch size: 10
+Individual worker processing execution Time: 15403 ms.
+Worker count: 10
+
+
+==================================================
 > 
->  100 tasks were generated between 1 and 4 seconds diapason
->  Batch processing execution Time: 30166 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 18288 ms.
->  Worker count: 10
->  
->  
->   ==================================================
+100 tasks were generated between 1 and 4 seconds diapason
+Batch processing execution Time: 30166 ms.
+Batch size: 10
+Individual worker processing execution Time: 18288 ms.
+Worker count: 10
+
+
+==================================================
 > 
->  100 tasks were generated between 1 and 5 seconds diapason
->  Batch processing execution Time: 40182 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 24338 ms.
->  Worker count: 10
->  
->  
->   ==================================================
+100 tasks were generated between 1 and 5 seconds diapason
+Batch processing execution Time: 40182 ms.
+Batch size: 10
+Individual worker processing execution Time: 24338 ms.
+Worker count: 10
+
+
+==================================================
 > 
->  100 tasks were generated between 1 and 6 seconds diapason
->  Batch processing execution Time: 49118 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 29318 ms.
->  Worker count: 10
->  
->  
->   ==================================================
+100 tasks were generated between 1 and 6 seconds diapason
+Batch processing execution Time: 49118 ms.
+Batch size: 10
+Individual worker processing execution Time: 29318 ms.
+Worker count: 10
+
+
+==================================================
 > 
->  100 tasks were generated between 1 and 7 seconds diapason
->  Batch processing execution Time: 58119 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 33454 ms.
->  Worker count: 10
->  
->  
->   ==================================================
+100 tasks were generated between 1 and 7 seconds diapason
+Batch processing execution Time: 58119 ms.
+Batch size: 10
+Individual worker processing execution Time: 33454 ms.
+Worker count: 10
+
+
+==================================================
 > 
->  100 tasks were generated between 1 and 8 seconds diapason
->  Batch processing execution Time: 70078 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 41332 ms.
->  Worker count: 10
->  
->  
->   ==================================================
->  100 tasks were generated between 1 and 9 seconds diapason
->  Batch processing execution Time: 77117 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 38402 ms.
->  Worker count: 10
->  
->  
->   ==================================================
->  100 tasks were generated between 1 and 10 seconds diapason
->  Batch processing execution Time: 1098599 ms.
->  Batch size: 10
->  Individual worker processing execution Time: 49301 ms.
->  Worker count: 10
->  
+100 tasks were generated between 1 and 8 seconds diapason
+Batch processing execution Time: 70078 ms.
+Batch size: 10
+Individual worker processing execution Time: 41332 ms.
+Worker count: 10
+
+
+==================================================
+100 tasks were generated between 1 and 9 seconds diapason
+Batch processing execution Time: 77117 ms.
+Batch size: 10
+Individual worker processing execution Time: 38402 ms.
+Worker count: 10
+
+
+==================================================
+100 tasks were generated between 1 and 10 seconds diapason
+Batch processing execution Time: 1098599 ms.
+Batch size: 10
+Individual worker processing execution Time: 49301 ms.
+Worker count: 10
+
 
 
 ## Conclusion
