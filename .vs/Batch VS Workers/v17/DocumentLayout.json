@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97257A98-102D-464B-A7F1-3357687F984A}|Solution Items{97257A98-102D-464B-A7F1-3357687F984A}|C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{97257A98-102D-464B-A7F1-3357687F984A}|Solution Items{97257A98-102D-464B-A7F1-3357687F984A}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1D34AB-2149-4785-9601-33DC269743B8}|Batch VS Workers\\Batch VS Workers.csproj|c:\\users\\david.baghaturia\\source\\repos\\batch vs workers\\batch vs workers\\complexcalculationsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1D34AB-2149-4785-9601-33DC269743B8}|Batch VS Workers\\Batch VS Workers.csproj|solutionrelative:batch vs workers\\complexcalculationsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1D34AB-2149-4785-9601-33DC269743B8}|Batch VS Workers\\Batch VS Workers.csproj|c:\\users\\david.baghaturia\\source\\repos\\batch vs workers\\batch vs workers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1D34AB-2149-4785-9601-33DC269743B8}|Batch VS Workers\\Batch VS Workers.csproj|solutionrelative:batch vs workers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAQwIkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-13T13:34:46.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexCalculationSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\Batch VS Workers\\ComplexCalculationSimulator.cs",
+              "RelativeDocumentMoniker": "Batch VS Workers\\ComplexCalculationSimulator.cs",
+              "ToolTip": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\Batch VS Workers\\ComplexCalculationSimulator.cs",
+              "RelativeToolTip": "Batch VS Workers\\ComplexCalculationSimulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:14:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\Batch VS Workers\\Program.cs",
+              "RelativeDocumentMoniker": "Batch VS Workers\\Program.cs",
+              "ToolTip": "C:\\Users\\David.Baghaturia\\source\\repos\\Batch VS Workers\\Batch VS Workers\\Program.cs",
+              "RelativeToolTip": "Batch VS Workers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:56:58.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
