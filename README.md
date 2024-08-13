@@ -1,3 +1,4 @@
+
 # Batch vs Worker Processing 
  
 ## Overview 
@@ -8,9 +9,9 @@ Simple project to play with batch and worker processing. Explore the difference 
  
 The goal is to explore the following: 
  
-- Difference between two approaches  
-- Application execution time difference  
-- Code optimization  
+- Difference between two approaches  
+- Application execution time difference  
+- Code optimization  
  
  
 ## Sample Classes 
